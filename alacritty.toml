@@ -1,0 +1,39 @@
+[colors.primary]
+background = '#040404'
+foreground = '#e1e1e1'
+
+[colors.cursor]
+text = '#bbbcbd'
+cursor = '#bbbcbd'
+
+[colors.normal]
+black = '#040404'
+red = '#8a8a8a'
+green = '#6c6c6c'
+yellow = '#b0b0b0'
+blue = '#b0b0b0'
+magenta = '#eaeaea'
+cyan = '#b0b0b0'
+white = '#e1e1e1'
+
+
+
+[window]
+
+#opacity = 0.9
+
+padding.x = 25
+padding.y = 25
+
+[font]
+
+normal.family = "Iosevka Nerd Font"
+bold.family = "Iosevka Nerd Font"
+italic.family = "Iosevka Nerd Font"
+bold_italic.family = "Iosevka Nerd Font"
+
+size = 10.0
+
+[cursor]
+style = { shape = "Beam" }
+
